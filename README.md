@@ -2,9 +2,13 @@
 Exercícios
 <br> <br>
 
+## Versão:
+Microsoft Excel 2019, compatível com o Microsoft Excel 2010 e posteriores. <br>
+
 ## Como usar:
 Para acessar o VBA, clique na guia "Desenvolvedor", posteriormente no canto superior esquerdo, em "Visual Basic". <br>
 Para habilitar as Macros, clique em "Habilitar Conteúdo" no Aviso de Segurança no canto superior esquerdo. <br>
+Existe um arquivo ".bas" somente com o código em VBA para visualizar o funcionamento do programa. <br>
 
 ## Objetivo:
 Aprimorar meu conhecimento em VBA ao fazer exercícios sobre o assunto. <br>
