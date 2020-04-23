@@ -23,3 +23,5 @@ exercicios_operacoes -> Exercícios usando as operações Soma, Subtração, Mul
 ferramenta_operacoes -> Exercícios usando as operações Soma, Subtração, Multiplicação, Divisão, Potência, Raiz com Cells.Value. <br> <br>
 
 revisao_cells_variaveis -> Exercícios para calcular o Valor Total de Venda em Reais e o Percentual Vendido com Cells.Value. <br> <br>
+
+exercicio_objeto_range -> Exercício aprendendo a usar o objeto Range. <br>
