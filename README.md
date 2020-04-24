@@ -27,3 +27,6 @@ revisao_cells_variaveis -> Exercícios para calcular o Valor Total de Venda em R
 exercicio_objeto_range -> Exercício aprendendo a usar o objeto Range. <br> <br>
 
 exercicios_range_offset -> Exercícios aprendendo a usar o Range e o Offset. Além disso, a copiar e a colar, colocar células sem preenchimento. <br> <br>
+
+exercicios_if_else -> <br> <br>
+exercicios_if_else_camisa -> <br> <br>
