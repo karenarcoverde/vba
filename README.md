@@ -30,3 +30,4 @@ exercicios_range_offset -> ExercÃ­cios aprendendo a usar o Range e o Offset. AlÃ
 
 exercicios_if_else -> <br> <br>
 exercicios_if_else_camisa -> <br> <br>
+ferramenta_for_foreach -> <br> <br>
