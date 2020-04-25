@@ -28,10 +28,15 @@ exercicio_objeto_range -> Exercício aprendendo a usar o objeto Range. <br> <br>
 
 exercicios_range_offset -> Exercícios aprendendo a usar o Range e o Offset. Além disso, a copiar e a colar, colocar células sem preenchimento. <br> <br>
 
-exercicios_if_else -> <br> <br>
-exercicios_if_else_camisa -> <br> <br>
-ferramenta_for_foreach -> <br> <br>
-with -> <br> <br>
-select_case -> <br> <br>
-while -> <br> <br>
-revisao_while_if -> <br> <br>
+exercicios_if_else -> Exercício usando as funções If e Else. Se a nota do aluno for maior ou igual a 6, coloca aprovado na célula, caso contrário, coloca reprovado. <br> <br>
+
+exercicios_if_else_camisa -> Exercício usando as funções IF e Else. Se o tamanho da camisa for P, coloca na célula valor R$10, no caso M, R$ 12 e G, R$13. <br> <br>
+
+ferramenta_for_foreach -> Exercício usando For Each, If e Else. Se o valor da célula lido for diferente de vazio, ele guarda o valor lido, quando tiver uma célula vazia, ele coloca o valor guardado nessa célula nas duas primeiras colunas e na penúltima coluna. O Valor Total será calculado multiplicando a quantidade vendida pelo valor unitário.  <br> <br>
+
+with -> Exerício usando a função With para colocar cor na célula, mudar a letra para negrito, etc.<br> <br>
+
+select_case -> Exercício usando a função Select Case. Selecionando uma das opções Soma, Diferença, Multiplicação ou Divisão, a Macro mostra na célula o resultado da operação selecionada.   <br> <br>
+
+while -> Exercício usando a função While. Enquanto a célcula selecionada for menor que 100 e a linha menor que 2000, a Macro continua lendo. Quando for maior que 100, a Macro mostra na célula a linha que foi maior que 100 e o valor. <br> <br>
+revisao_while_if -> Exercício usando as funções If e While.   <br> <br>
