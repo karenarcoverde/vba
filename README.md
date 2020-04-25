@@ -32,3 +32,5 @@ exercicios_if_else -> <br> <br>
 exercicios_if_else_camisa -> <br> <br>
 ferramenta_for_foreach -> <br> <br>
 with -> <br> <br>
+select_case -> <br> <br>
+
