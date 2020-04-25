@@ -34,7 +34,7 @@ exercicios_if_else_camisa -> Exercício usando as funções IF e Else. Se o tama
 
 ferramenta_for_foreach -> Exercício usando For Each, If e Else. Se o valor da célula lido for diferente de vazio, ele guarda o valor lido, quando tiver uma célula vazia, ele coloca o valor guardado nessa célula nas duas primeiras colunas e na penúltima coluna. O Valor Total será calculado multiplicando a quantidade vendida pelo valor unitário.  <br> <br>
 
-with -> Exerício usando a função With para colocar cor na célula, mudar a letra para negrito, etc.<br> <br>
+with -> Exercício usando a função With para colocar cor na célula, mudar a letra para negrito, etc.<br> <br>
 
 select_case -> Exercício usando a função Select Case. Selecionando uma das opções Soma, Diferença, Multiplicação ou Divisão, a Macro mostra na célula o resultado da operação selecionada.   <br> <br>
 
