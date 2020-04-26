@@ -42,3 +42,5 @@ while -> Exercício usando a função While. Enquanto a célcula selecionada for
 revisao_while_if -> Exercício usando as funções If e While.   <br> <br>
 
 revisao_sub_function -> Exercício utilizando Sub e Function.  <br> <br>
+
+funcao_excel ->  Exercício fazendo uma função que pode ser usada no Excel. Função AtualizarValor: Pega o último valor preenchido que não seja vazio. <br> <br>
