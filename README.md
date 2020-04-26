@@ -41,4 +41,4 @@ select_case -> Exercício usando a função Select Case. Selecionando uma das op
 while -> Exercício usando a função While. Enquanto a célcula selecionada for menor que 100 e a linha menor que 2000, a Macro continua lendo. Quando for maior que 100, a Macro mostra na célula a linha que foi maior que 100 e o valor. <br> <br>
 revisao_while_if -> Exercício usando as funções If e While.   <br> <br>
 
-revisao_sub_function -> <br> <br>
+revisao_sub_function -> Exercício utilizando Sub e Function.  <br> <br>
