@@ -45,4 +45,4 @@ revisao_sub_function -> Exercício utilizando Sub e Function.  <br> <br>
 
 funcao_excel ->  Exercício fazendo uma função que pode ser usada no Excel. Função AtualizarValor: Pega o último valor preenchido que não seja vazio. <br> <br>
 
-ferramenta4_consolidacao_dados -> <br> <br>
+ferramenta4_consolidacao_dados -> Exercício utilizando Function, Sub, For Each, If e Else. Este programa mostra um Resumo Diário das Movimentações, com a data da movimentação, tipo de movimentação (Entrada ou Saída), Valor Entrada, Valor Saída, Origem (Se é da Conta 1 ou Conta 2), Documentos, Saldo Anterior, Saldo Final. <br> <br>
