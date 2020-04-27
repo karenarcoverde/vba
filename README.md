@@ -14,13 +14,13 @@ Existe um arquivo ".bas" somente com o código em VBA para visualizar o funciona
 Aprimorar meu conhecimento em VBA ao fazer exercícios sobre o assunto. <br>
 
 ## Como funciona cada programa: 
-hello_world -> Utilizando MsgBox, variáveis, Option Explicit. <br> <br>
+ferramenta1_hello_world -> Utilizando MsgBox, variáveis, Option Explicit. <br> <br>
 
 exercicios_cells -> Exercícios usando Cells.Value e ActiveCell. <br> <br>
 
 exercicios_operacoes -> Exercícios usando as operações Soma, Subtração, Multiplicação e Divisão com Cells.Value. <br> <br>
 
-ferramenta_operacoes -> Exercícios usando as operações Soma, Subtração, Multiplicação, Divisão, Potência, Raiz com Cells.Value. <br> <br>
+ferramenta2_operacoes -> Exercícios usando as operações Soma, Subtração, Multiplicação, Divisão, Potência, Raiz com Cells.Value. <br> <br>
 
 revisao_cells_variaveis -> Exercícios para calcular o Valor Total de Venda em Reais e o Percentual Vendido com Cells.Value. <br> <br>
 
@@ -32,7 +32,7 @@ exercicios_if_else -> Exercício usando as funções If e Else. Se a nota do alu
 
 exercicios_if_else_camisa -> Exercício usando as funções IF e Else. Se o tamanho da camisa for P, coloca na célula valor R$10, no caso M, R$ 12 e G, R$13. <br> <br>
 
-ferramenta_for_foreach -> Exercício usando For Each, If e Else. Se o valor da célula lido for diferente de vazio, ele guarda o valor lido, quando tiver uma célula vazia, ele coloca o valor guardado nessa célula nas duas primeiras colunas e na penúltima coluna. O Valor Total será calculado multiplicando a quantidade vendida pelo valor unitário.  <br> <br>
+ferramenta3_for_foreach -> Exercício usando For Each, If e Else. Se o valor da célula lido for diferente de vazio, ele guarda o valor lido, quando tiver uma célula vazia, ele coloca o valor guardado nessa célula nas duas primeiras colunas e na penúltima coluna. O Valor Total será calculado multiplicando a quantidade vendida pelo valor unitário.  <br> <br>
 
 with -> Exercício usando a função With para colocar cor na célula, mudar a letra para negrito, etc.<br> <br>
 
@@ -44,3 +44,5 @@ revisao_while_if -> Exercício usando as funções If e While.   <br> <br>
 revisao_sub_function -> Exercício utilizando Sub e Function.  <br> <br>
 
 funcao_excel ->  Exercício fazendo uma função que pode ser usada no Excel. Função AtualizarValor: Pega o último valor preenchido que não seja vazio. <br> <br>
+
+ferramenta4_consolidacao_dados -> <br> <br>
