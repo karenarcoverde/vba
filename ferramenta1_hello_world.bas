@@ -1,9 +1,9 @@
-Attribute VB_Name = "MÃ³dulo1"
+Attribute VB_Name = "Módulo1"
 Option Explicit
 
 
 Sub minha_macro()
-' Essa Ã© minha primeira macro
+' Essa é minha primeira macro
 Dim x, z, e As Integer
 Dim y As String
 
