@@ -32,7 +32,7 @@ Attribute Macro1.VB_ProcData.VB_Invoke_Func = " \n14"
     Next
     
     
-    Exit Sub
+Exit Sub
     
 tratamento:
     encontrado = 0
