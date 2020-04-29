@@ -48,3 +48,5 @@ funcao_excel ->  Exercício fazendo uma função que pode ser usada no Excel. Fu
 ferramenta4_consolidacao_dados -> Exercício utilizando Function, Sub, For Each, If e Else, ActiveSheet.Name e Sheets().Activate. Este programa mostra um Resumo Diário das Movimentações de duas contas, com a data da movimentação, tipo de movimentação (Entrada ou Saída), Valor Entrada, Valor Saída, Origem (Se é da Conta 1 ou da Conta 2), Documentos, Saldo Anterior (Saldo Final anterior), Saldo Final (Saldo Anterior + Valor Entrada + Valor Saída). <br> <br>
 
 revisao_tratamento_de_erro -> Exercício utilizando o tratamento de erro "On Error GoTo" e o "Do Until". <br> <br> 
+
+ferramenta5_resumo_notas -> Exercício utilizando "On Error GoTo". Este pega a nota de cada aluno e coloca em uma tabela. <br> <br>
