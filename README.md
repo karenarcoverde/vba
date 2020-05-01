@@ -50,3 +50,5 @@ ferramenta4_consolidacao_dados -> Exercício utilizando Function, Sub, For Each,
 revisao_tratamento_de_erro -> Exercício utilizando o tratamento de erro "On Error GoTo" e o "Do Until". <br> <br> 
 
 ferramenta5_resumo_notas -> Exercício utilizando "On Error GoTo", For Each, Sheets().Activate, Offset, Resume Next, Cells.Find().Activate. Este pega a nota de cada aluno e coloca em uma tabela. <br> <br>
+
+revisao_inputbox -> Exercício utilizando a ferramenta InputBox para preencher as informações dos Clientes de uma loja. <br> <br>
