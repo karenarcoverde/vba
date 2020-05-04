@@ -8,7 +8,7 @@ Microsoft Excel 2019, compatível com o Microsoft Excel 2010 e posteriores. <br>
 ## Como usar:
 Para acessar o VBA, clique na guia "Desenvolvedor", posteriormente no canto superior esquerdo, em "Visual Basic". <br>
 Para habilitar as Macros, clique em "Habilitar Conteúdo" no Aviso de Segurança no canto superior esquerdo. <br>
-Existe um arquivo ".bas" somente com o código em VBA para visualizar o funcionamento do programa. <br>
+Existe um arquivo ".bas" e ".frm" somente com o código em VBA para visualizar o funcionamento do programa. <br>
 
 ## Objetivo:
 Aprimorar meu conhecimento em VBA ao fazer exercícios sobre o assunto. <br>
@@ -52,3 +52,5 @@ revisao_tratamento_de_erro -> Exercício utilizando o tratamento de erro "On Err
 ferramenta5_resumo_notas -> Exercício utilizando "On Error GoTo", For Each, Sheets().Activate, Offset, Resume Next, Cells.Find().Activate. Este pega a nota de cada aluno e coloca em uma tabela. <br> <br>
 
 revisao_inputbox -> Exercício utilizando a ferramenta InputBox para preencher as informações dos Clientes de uma loja. <br> <br>
+
+ferramenta6_userform -> <br> <br>
