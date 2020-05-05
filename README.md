@@ -55,4 +55,4 @@ revisao_inputbox -> Exercício utilizando a ferramenta InputBox para preencher a
 
 ferramenta6_userform -> Exercício utilizando as ferramentas Caixa de Listagem, RefEdit, Multi-página, Frame, Rótulo, Caixa de texto, OptionButton, CheckBox, ToggleButton e ComandButton. Este programa faz um Registro de Compras. O usuário poderá escolher o Setor de Solicitação, em qual célula deseja colocar essas informações (senão for selecionado a célula, ele coloca em baixo da última informação preenchida na tabela), o Fornecedor. Além disso, se a nota for emitida, o usuário pode escolher o tipo de imposto. Também possui o tipo de solicitação (Produto ou Serviço) que o usuário deverá escolher, o prazo de pagamento (Atencipado, Na entrega, 30 dias após a entrega), descrição (informações necessárias da solicitação de compras que não foram contempladas) e o Valor Total. O usuário deve clicar em "Registrar", assim aparecerá uma nova linha na tabela com as informações fornecidas. <br> <br>
 
-revisao_worksheetfunction_funcoes_excel -> <br> <br>
+revisao_worksheetfunction_funcoes_excel -> Exercício utilizando WorksheetFunction.SumIfs e WorksheetFunction.Vlookup e Do Until. <br> <br>
