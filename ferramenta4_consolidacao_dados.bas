@@ -4,14 +4,21 @@ Dim valor As Double
 Dim doc As String
 Dim data As Date
 Sub AtualizarCompilado()
+    Application.ScreenUpdating = False
+    
     Consolidar ("Conta 1")
     Consolidar ("Conta 2")
+    
+    Sheets("Consolidação de Contas").Activate
+    
+    Application.ScreenUpdating = True
+    
 End Sub
 Sub Consolidar(nome_aba As String)
 
     Dim range1, cell As Range
     Sheets(nome_aba).Activate
-    Set range1 = Range("A1:A300")
+    Set range1 = Range("A1", Range("A1").End(xlDown))
     
     For Each cell In range1
         If AnalisarLinha(cell) Then
