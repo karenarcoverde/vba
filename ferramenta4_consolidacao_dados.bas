@@ -4,6 +4,8 @@ Dim valor As Double
 Dim doc As String
 Dim data As Date
 Sub AtualizarCompilado()
+    
+    Application.Calculation = xlCalculationManual
     Application.ScreenUpdating = False
     
     Consolidar ("Conta 1")
@@ -12,6 +14,7 @@ Sub AtualizarCompilado()
     Sheets("Consolidação de Contas").Activate
     
     Application.ScreenUpdating = True
+    Application.Calculation = xlCalculationAutomatic
     
 End Sub
 Sub Consolidar(nome_aba As String)
