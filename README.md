@@ -8,7 +8,7 @@ Microsoft Excel 2019, compatível com o Microsoft Excel 2010 e posteriores. <br>
 ## Como usar:
 Para acessar o VBA, clique na guia "Desenvolvedor", posteriormente no canto superior esquerdo, em "Visual Basic". <br>
 Para habilitar as Macros, clique em "Habilitar Conteúdo" no Aviso de Segurança no canto superior esquerdo. <br>
-Existe um arquivo ".bas" e ".frm" somente com o código em VBA para visualizar o funcionamento do programa. <br>
+Existe um arquivo ".bas", ".frm" e ".cls" somente com o código em VBA para visualizar o funcionamento do programa. <br>
 
 ## Objetivo:
 Aprimorar meu conhecimento em VBA ao fazer exercícios sobre o assunto. <br>
@@ -56,3 +56,5 @@ revisao_inputbox -> Exercício utilizando a ferramenta InputBox para preencher a
 ferramenta6_userform -> Exercício utilizando as ferramentas Caixa de Listagem, RefEdit, Multi-página, Frame, Rótulo, Caixa de texto, OptionButton, CheckBox, ToggleButton e ComandButton. Este programa faz um Registro de Compras. O usuário poderá escolher o Setor de Solicitação, em qual célula deseja colocar essas informações (senão for selecionado a célula, ele coloca em baixo da última informação preenchida na tabela), o Fornecedor. Além disso, se a nota for emitida, o usuário pode escolher o tipo de imposto. Também possui o tipo de solicitação (Produto ou Serviço) que o usuário deverá escolher, o prazo de pagamento (Atencipado, Na entrega, 30 dias após a entrega), descrição (informações necessárias da solicitação de compras que não foram contempladas) e o Valor Total. O usuário deve clicar em "Registrar", assim aparecerá uma nova linha na tabela com as informações fornecidas. <br> <br>
 
 revisao_worksheetfunction_funcoes_excel -> Exercício utilizando WorksheetFunction.SumIfs e WorksheetFunction.Vlookup e Do Until. <br> <br>
+
+revisao_eventos -> Exercício utilizando o evento Worksheet e a função ActiveSheet. Este programa atualiza uma Tabela Dinâmica automaticamente. Por exemplo, ao mudar na aba "Base" a Quantidade, a Tabela Dinâmica na aba "Resumo" também muda. <br> <br>
