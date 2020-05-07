@@ -57,4 +57,4 @@ ferramenta6_userform -> Exercício utilizando as ferramentas Caixa de Listagem, 
 
 revisao_worksheetfunction_funcoes_excel -> Exercício utilizando WorksheetFunction.SumIfs e WorksheetFunction.Vlookup e Do Until. <br> <br>
 
-revisao_eventos -> Exercício utilizando o evento Worksheet e a função ActiveSheet. Este programa atualiza uma Tabela Dinâmica automaticamente. Por exemplo, ao mudar na aba "Base" a Quantidade, a Tabela Dinâmica na aba "Resumo" também muda. <br> <br>
+revisao_eventos -> Exercício utilizando o evento Worksheet e a função ActiveSheet. Este programa atualiza uma Tabela Dinâmica automaticamente. Por exemplo, ao mudar na planilha "Base" a Quantidade, a Tabela Dinâmica na planilha "Resumo" também muda. <br> <br>
